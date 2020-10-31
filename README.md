@@ -1,2 +1,3 @@
 # aws-eb-certbot-examples
-Aws elastic beanstalk certbot + nginx examples
+
+Examples showing how to setup **Aws elastic beanstalk** webserver environments **SSL** with certbot.
